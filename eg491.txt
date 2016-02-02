@@ -1,0 +1,16 @@
+x	loc	y
+161	street	157.27
+99	street	93.28
+135	street	136.81
+120	street	123.79
+164	street	153.51
+221	mall	241.74
+179	mall	201.54
+204	mall	206.71
+214	mall	229.78
+101	mall	135.22
+231	dwtwn	224.71
+206	dwtwn	195.29
+248	dwtwn	242.16
+107	dwtwn	115.21
+205	dwtwn	197.82
